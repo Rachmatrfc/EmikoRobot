@@ -5,6 +5,7 @@ wget
 gtts
 beautifulsoup4
 requests
+python-telegram-bot==20.0a0
 SQLAlchemy==1.4.36
 psycopg2-binary
 feedparser
@@ -22,6 +23,7 @@ psutil
 aiohttp
 Pillow
 CurrencyConverter
+googletrans==4.0.0rc1
 google-trans-new
 jikanpy
 speedtest-cli
